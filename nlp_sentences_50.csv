@@ -1,0 +1,51 @@
+text
+Natural Language Processing is evolving fast.
+NLP helps computers understand human language.
+Text classification is a key task in NLP.
+Tokenization is the first step in most NLP pipelines.
+Stemming reduces words to their root form.
+Named Entity Recognition is an NLP task.
+Syntax parsing helps understand grammar in NLP.
+Word embeddings capture semantic meanings in NLP.
+Transformers changed the landscape of NLP.
+Deep learning improved NLP accuracy greatly.
+Artificial Intelligence is transforming industries.
+AI can automate decision making processes.
+Machine Learning is a part of AI.
+AI is used in healthcare diagnostics.
+Ethics in AI is an important discussion.
+AI systems can mimic human cognition.
+AI requires large datasets for training.
+Deep learning is a subfield of AI.
+AI in finance helps detect fraud.
+Natural language understanding is part of AI.
+Supervised learning needs labeled data.
+Unsupervised learning groups similar data.
+Regression is a type of supervised learning.
+Clustering is used in unsupervised ML.
+SVM is a popular classification algorithm.
+ML models improve with more data.
+Overfitting is a challenge in ML.
+Cross-validation helps in model evaluation.
+Model accuracy is important in ML.
+Decision trees are easy to interpret in ML.
+Deep learning uses neural networks.
+CNNs are great for image processing.
+RNNs are suited for sequential data.
+LSTMs help in remembering long-term dependencies.
+GANs are used to generate new data.
+Autoencoders reduce data dimensionality.
+Activation functions are key in DL models.
+Dropout prevents overfitting in DL.
+Batch normalization speeds up DL training.
+DL models need GPUs for efficiency.
+Data preprocessing is crucial before modeling.
+Cleaning data ensures better model performance.
+Exploratory Data Analysis reveals patterns.
+Feature engineering improves model input.
+Data visualization helps in understanding.
+Imbalanced data affects classification results.
+Scaling data helps algorithms perform better.
+Missing values need to be handled properly.
+Data splitting is key in model validation.
+Real-world data is often noisy and incomplete.
